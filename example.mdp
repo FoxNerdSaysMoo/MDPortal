@@ -1,0 +1,47 @@
+meta{ icon: "https://example.com" }
+
+title{ MDPortal Demo }
+
+[title]
+{ font-family: Roboto }## MDPortal
+[/]
+
+# *italic*
+
+# **bold**
+
+# ***italic AND bold***
+
+{ background-color: #bdbdbd;
+padding: 5px 5px 5px 5px;
+border-radius: 0.5em }# This is pretty cool, eh? // Yeah it is
+
+/*
+MULTI
+LINE
+COMMENTS
+LETS
+GOOOOOOOOOO
+*/
+
+# MULTI\nLINE
+
+# `code`
+
+# ```
+code block
+```
+
+# [Click here](https://google.com)
+
+# ~~CIA TOP SECRET INFO~~
+
+{css}
+.title {
+    background-color: #f0f0f0
+}
+{/css}
+
+{html}
+<script src=""></script>
+{/html}

@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+
+# VSC
+.vsc/
+
+# Python Interpterter
+__pycache__/
+
+# Outfile
+out.html
+
+# Replit
+.replit
